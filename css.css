@@ -35,6 +35,7 @@
 
 .card-left {
     width: 37%;
+    height: 95px;
     margin-right: 3px;
 }
 
@@ -44,6 +45,7 @@
 
 .card-mid {
     width: 25%;
+    height: 95px;
     margin-right: 3px;
 }
 
@@ -53,6 +55,8 @@
 
 .card-right {
     width: 37%;
+    height: 95px;
+    font-size: 12px;
     margin-right: 3px;
 }
 
